@@ -6,4 +6,4 @@ Meu nome é DIEGO
 - Estou me desenvolvendo na linguagem javaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![descrição do GIF](https://upload.wikimedia.org/wikipedia/commons/8/8a/Purple-guy.gif)
+![descrição do GIF](https://media.tenor.com/0yAvsHZjcBoAAAAC/cr7-football.gif)
