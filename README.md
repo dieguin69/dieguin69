@@ -6,4 +6,4 @@ Meu nome é DIEGO
 - Estou me desenvolvendo na linguagem javaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![descrição do GIF](https://media.tenor.com/0yAvsHZjcBoAAAAC/cr7-football.gif)
+![descrição do GIF](https://i.pinimg.com/originals/40/ea/57/40ea5712599baa1d91af6565d94e0f8e.gif)
